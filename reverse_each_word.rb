@@ -1,9 +1,9 @@
-def reverse_each_word(string) 
+# def reverse_each_word(string) 
  
- string.each do |x| 
-string.split('')
-string.reverse
-end 
+# string.each do |x| 
+# string.split('')
+# string.reverse
+# end 
 
 
 def reverse_each_word(string) 
