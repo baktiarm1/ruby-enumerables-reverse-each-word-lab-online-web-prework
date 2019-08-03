@@ -8,5 +8,6 @@ end
 
 def reverse_each_word(string) 
 arr = string.split(' ')
-arr.collect{|word| word.reverse}
+r_arr = arr.collect{|word| word.reverse}
+return r_arr.join(' ')
 end 
